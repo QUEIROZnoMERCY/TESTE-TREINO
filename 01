@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+(titulo e subtitulo)
+<html>
+    <h1>London</h1>
+    <hr>
+    
+    <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+    (quebra de pagina)
+    <p>quebra de 
+        <br>
+        pagína</p><br>
+   (criar um poema estilo)
+<pre>
+
+    My Bonnie lies over the ocean.
+  
+    My Bonnie lies over the sea.
+  
+    My Bonnie lies over the ocean.
+  
+    Oh, bring back my Bonnie to me.
+  </pre>
+  (cor e button)<br>
+<button>
+  <p style="color:blue">OLA MUNDO</p>
+</button><br>
+(fonte do texto)<br>
+<button>
+    <p style="font-weight
+:courier;">This is a paragraph.</p>
+</button>
+
+<br>
+(centralizar texto)<br>
+<button> 
+    <p style="
+text-aling
+:center;">This is a paragraph.</p>
+ </button><br>
+
+    (tamanho do escolhido)<br>
+    <button><p style="
+font-size
+:25px;">This is a paragraph.</p>
+</button><br>
+
+(Deixar o fundo de outra cor ✔)
+<html>
+<body style="
+background-color
+:yellow;">
+</body>
+</html><br> 
+<div>
+<body 
+style
+="
+text-align:center
+;">
+
+<h1>This is a heading</h1>
+
+<p>This is a paragraph.</p>
+
+</body>
+</div>
+        </html>
+        <BUTTON>
+            <P style="COLOR:blue"> TESTE BUTÃO </P>
+        </BUTTON>
